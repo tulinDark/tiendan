@@ -1,0 +1,30 @@
+[
+     {
+          "id": 1,
+          "name": "Nike Fly",
+          "price": 300,
+          "img": "https://i.pinimg.com/736x/48/80/45/488045b5f4076a44fea1a39705925315.jpg",
+          "quanty": 1
+     },
+     {
+          "id": 2,
+          "name": "Nike airmax",
+          "price": 300,
+          "img": "https://i.pinimg.com/1200x/5b/04/a4/5b04a42d8749d07ec896d4c100b46b9e.jpg",
+          "quanty": 1
+     },
+     {
+          "id": 3,
+          "name": "Nike Jordan",
+          "price": 300,
+          "img": "https://i.pinimg.com/736x/2b/20/21/2b2021459f8bac4f8ec3b3259ee72d4e.jpg",
+          "quanty": 1
+     },
+     {
+          "id": 4,
+          "name": "Nike supreme",
+          "price": 300,
+          "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7f8d3c112159509.600f8508aa7ba.png",
+          "quanty": 1
+     }
+]
